@@ -33,8 +33,8 @@ Follow the process described in the course to `eb init` a new application and `e
 
 ### DEPLOYED SERVICE ENDPOINT URL:
 
-BASE URL:  http://image-filter-service-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=
-EXAMPLE:  http://image-filter-service-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://dailygazette.com/sites/default/files/styles/article_image/public/media/img/photos/2012/11/21/1_Alex_Ross_Mythology_Superman_2005_1122_.jpg?itok=jIaW5JU8
+- BASE URL:  http://image-filter-service-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=
+- EXAMPLE:  http://image-filter-service-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://dailygazette.com/sites/default/files/styles/article_image/public/media/img/photos/2012/11/21/1_Alex_Ross_Mythology_Superman_2005_1122_.jpg?itok=jIaW5JU8
 
 
 ## Stand Out (Optional)
